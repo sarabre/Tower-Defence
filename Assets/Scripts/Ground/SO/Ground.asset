@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dce88de777e8cd9409ee4d953b92d836, type: 3}
+  m_Name: Ground
+  m_EditorClassIdentifier: 
+  _tiles:
+  - {fileID: 11400000, guid: fa297eebc999bf74c8aa68f5f0029755, type: 2}
+  - {fileID: 11400000, guid: fa1abb0e93a257c41b6481fae5281e60, type: 2}
+  - {fileID: 11400000, guid: 3d7807f43ca3b8a44ac10b2a890991f9, type: 2}
+  _tileObj: {fileID: 8337884428233136194, guid: 5eb12d262b639264196dfdb7919d25ad, type: 3}
+  _onGameStart: {fileID: 11400000, guid: 9fa4a9a4589db7f489be62ad765abfcf, type: 2}
