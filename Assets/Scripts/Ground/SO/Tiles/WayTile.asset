@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 277e333c530e8824588792932455f442, type: 3}
+  m_Script: {fileID: 11500000, guid: a3b7dd99553b3d043994d705f50a789b, type: 3}
   m_Name: WayTile
   m_EditorClassIdentifier: 
   BaseColor:
