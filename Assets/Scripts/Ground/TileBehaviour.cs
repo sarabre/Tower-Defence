@@ -11,5 +11,9 @@ public class TileBehaviour : MonoBehaviour
         _spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
+    public void SetColor(Color32 color)
+    {
+        _spriteRenderer.color = color;
+    }
 
 }
