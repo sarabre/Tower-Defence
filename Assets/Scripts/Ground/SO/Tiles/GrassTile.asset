@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 277e333c530e8824588792932455f442, type: 3}
   m_Name: GrassTile
   m_EditorClassIdentifier: 
-  _baseColor:
+  BaseColor:
     serializedVersion: 2
     rgba: 4287360932
-  _offsetColor:
+  OffsetColor:
     serializedVersion: 2
     rgba: 4285719951

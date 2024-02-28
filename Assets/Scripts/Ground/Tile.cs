@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class Tile : ScriptableObject
 {
-    [SerializeField] private Color32 _baseColor, _offsetColor;
+    public Color32 BaseColor, OffsetColor;
 }

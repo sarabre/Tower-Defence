@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 277e333c530e8824588792932455f442, type: 3}
   m_Name: TowerTile
   m_EditorClassIdentifier: 
-  _baseColor:
+  BaseColor:
     serializedVersion: 2
     rgba: 4287808767
-  _offsetColor:
+  OffsetColor:
     serializedVersion: 2
     rgba: 4290238719
